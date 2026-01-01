@@ -3,6 +3,12 @@
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)  
 ![License](https://img.shields.io/github/license/paulCsGit/AI_MCTS_assign)
 
+## GROUP MEMBERS
+Pawlos Addisu     UGR/5732/15
+Tariku Temesgen   UGR/7565/15
+Simon beyene      UGR/6260/15
+Ibrahim Ali       UGR/6991/15
+
 ## 📌 Overview
 
 This repository contains an implementation of **Monte Carlo Tree Search (MCTS)** in Python — a powerful heuristic search algorithm commonly used in AI decision‑making tasks such as game playing and planning. :contentReference[oaicite:0]{index=0}
