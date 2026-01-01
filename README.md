@@ -42,10 +42,15 @@ Four main steps of the algorithm:
 ## 📁 Repository Structure
 
 AI_MCTS_assign/
+
 ├── game.py # Game interface/logic handler
+
 ├── main.py # Example usage / entry point
+
 ├── mcts.py # MCTS implementation
+
 ├── node.py # MCTS tree node structure
+
 ├── README.md # This file
 
 ---
