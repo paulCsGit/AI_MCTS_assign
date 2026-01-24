@@ -10,7 +10,7 @@ Tariku Temesgen   UGR/7565/15
 
 Simon beyene      UGR/6260/15
 
-Ibrahim Ali       UGR/6991/15
+Ibrahim Ali       UGR/6991/14
 
 ## 📌 Overview
 
